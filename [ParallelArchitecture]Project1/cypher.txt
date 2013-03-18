@@ -1,0 +1,3 @@
+Extracts characters from the stream as unformatted input and stores them into s as a c-string,
+until either the extracted character is the delimiting character, or n characters have been written to
+s (including the terminating null character). mn
